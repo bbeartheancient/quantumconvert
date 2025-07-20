@@ -6,7 +6,10 @@ requirements:
 - qiskit
 - qiskit_aer
 - matplotlib
-
+- astropy
+# qconvertxfits.py:
+best version, allows for manual H0 value input or FITS file parsing
+//don't forget to correct the file paths as i was lazy and didn't remove them from the script
 # qconvert.py:
 measures quantum values between 3 qubits for transferring wave particles.
 //sums quantum vectors before state transmission, so a large number of wave particles can be simulated.
