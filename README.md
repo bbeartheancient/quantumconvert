@@ -33,7 +33,7 @@ The calculator serves as a tool to bridge quantum information theory with cosmo-
 logical dynamics, providing a framework to quantify correlations and explore their be-
 havior under cosmological evolution.
 
-The calculator incorporates a flat ΛCDM cosmological model, defined by the density pa-
+The calculator incorporates a closed-loop ΛCDM cosmological model, defined by the density pa-
 rameters for radiation (Ωr), matter (Ωm), dark energy (ΩΛ), and curvature (Ωk), with val-
 1
 ues:
